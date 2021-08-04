@@ -1,6 +1,10 @@
 hao1
 hao2
+<<<<<<< HEAD
 hao4
+=======
+hao5
+>>>>>>> hzm
 hao
 hao
 hao
